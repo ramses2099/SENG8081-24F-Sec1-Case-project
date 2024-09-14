@@ -1,6 +1,32 @@
 # SENG8081-24F-Sec1-Case-project
 Assignment # 1 - Repository Collaboration and Preparation Assignment
 
+# Steps for assignment
+1. clone the repository
+```
+git clone https://github.com/ramses2099/SENG8081-24F-Sec1-Case-project
+```
+1. check the list of branch
+```
+git branch -r
+```
+1. use the branch development 
+```
+ git checkout development
+```
+1. make some changes or add one file e.g.
+```
+test_name_student_number.txt
+```
+1. push the file to the remote branch.
+```
+git status
+git add .
+git commit -m "add new file test_name_student_number.txt the branch development"
+git push origin development
+```
+
+
 ## create branch
 
 git checkout -b <name>
