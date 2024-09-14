@@ -23,7 +23,7 @@ test_name_student_number.txt
 git status
 git add .
 git commit -m "add new file test_name_student_number.txt the branch development"
-git push origin development
+git push -u origin development
 ```
 
 
