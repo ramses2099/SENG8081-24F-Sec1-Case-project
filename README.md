@@ -48,3 +48,5 @@ git branch -d <name>
 1. git remote show [remote_name]. Shows information about the specified remote, including the remote branches.
 1. git branch -a. Shows all the local and remote branches.
 
+## Contributors
+- Abhijith
