@@ -1,31 +1,43 @@
 # SENG8081-24F-Sec1-Case-project
+
 Assignment # 1 - Repository Collaboration and Preparation Assignment
 
+##### Shreyanshi Shah
+
 # Steps for assignment
+
 1. clone the repository
+
 ```
 git clone https://github.com/ramses2099/SENG8081-24F-Sec1-Case-project
 ```
+
 1. check the list of branch
+
 ```
 git branch -r
 ```
-1. use the branch development 
+
+1. use the branch development
+
 ```
  git checkout development
 ```
+
 1. make some changes or add one file e.g.
+
 ```
 test_name_student_number.txt
 ```
+
 1. push the file to the remote branch.
+
 ```
 git status
 git add .
 git commit -m "add new file test_name_student_number.txt the branch development"
 git push -u origin development
 ```
-
 
 ## create branch
 
@@ -47,4 +59,3 @@ git branch -d <name>
 1. git ls-remote. Lists all the references in the remote repository, including the branches.
 1. git remote show [remote_name]. Shows information about the specified remote, including the remote branches.
 1. git branch -a. Shows all the local and remote branches.
-
