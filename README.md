@@ -17,7 +17,7 @@ git branch -r
 1. make some changes or add one file e.g.
 ```
 test_name_student_number.txt
-ADDED MY NAME 'CATHERIN OLIVIYA' TO THE README.md FILE
+
 ```
 1. push the file to the remote branch.
 ```
@@ -48,4 +48,7 @@ git branch -d <name>
 1. git ls-remote. Lists all the references in the remote repository, including the branches.
 1. git remote show [remote_name]. Shows information about the specified remote, including the remote branches.
 1. git branch -a. Shows all the local and remote branches.
+
+## Contributors 
+Catherin Oliviya
 
