@@ -16,7 +16,7 @@ git branch -r
 ```
 1. make some changes or add one file e.g.
 ```
-test_name_student_number.txt
+MeetAmin8891297.txt
 ```
 1. push the file to the remote branch.
 ```
