@@ -4,7 +4,7 @@ Assignment # 1 - Repository Collaboration and Preparation Assignment
 # Steps for assignment
 1. clone the repository
 ```
-git clone https://github.com/ramses2099/SENG8081-24F-Sec1-Case-project
+git clone https://github.com/AsimInamdar/SENG8081-24F-Sec1-Case-project
 ```
 1. check the list of branch
 ```
